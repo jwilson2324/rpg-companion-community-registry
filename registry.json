@@ -231,5 +231,17 @@
     "github_repo": "MalletGreatshield/Bearfolk",
     "repo_url": "https://MalletGreatshield.github.io/Bearfolk/",
     "has_system": false
+  },
+  {
+    "name": "Eberron-forge-of-the-artificer",
+    "description": "All content from the forge",
+    "tags": [
+      "5e2024",
+      "fantasy"
+    ],
+    "stars": 0,
+    "github_repo": "DMRocketMaster/Eberron-forge-of-the-artificer",
+    "repo_url": "https://DMRocketMaster.github.io/Eberron-forge-of-the-artificer/",
+    "has_system": false
   }
 ]
