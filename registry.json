@@ -268,5 +268,16 @@
     "github_repo": "derpsyhome/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-",
     "repo_url": "https://derpsyhome.github.io/battle-zoo-s-ancestries-dragon-s-deep-magic-tomes-of-heros-ebon-tides-/",
     "has_system": false
+  },
+  {
+    "name": "Dnd-to-the-Past",
+    "description": "",
+    "tags": [
+      "homebrew"
+    ],
+    "stars": 0,
+    "github_repo": "jwilson2324/Dnd-to-the-Past",
+    "repo_url": "https://jwilson2324.github.io/Dnd-to-the-Past/",
+    "has_system": false
   }
 ]
